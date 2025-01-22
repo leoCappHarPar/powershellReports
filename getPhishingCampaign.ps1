@@ -6,9 +6,9 @@ Import-Module ImportExcel
 
 # API Configuration
 $apiUrl = "https://api.caniphish.com/api/v2/reporting/phishing/get-all-campaigns"
-$apiKey = "7ae9fd10-0a5e-4c26-b148-dcfb584dd8f2"
-$emailAddress = "leo.cappello@harvardpartners.com"
-$tenantID = "702fe935-0047-4b89-8f06-8ec2f3ccd4ef"
+$apiKey = "xxxxxxxxxxxxxxxxxxxxxxxx"
+$emailAddress = "xxxxxxxxxxxxxxxxxxxx"
+$tenantID = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Headers for the API request
 $headers = @{
